@@ -1,0 +1,6 @@
+name: anaconda
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - pandas
